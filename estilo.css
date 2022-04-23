@@ -1,0 +1,36 @@
+/* INICIO DO CORPO DAS CONFG PAGINA */
+
+#principal {width: 850px;height: auto;border: thin black solid;margin: 0 auto;background-color: white;}
+
+#banner {height: 270px;}
+
+#rodape {height: 40px;text-align: center;padding-top: 25px;}
+
+body {font-family: Arial, Helvetica, sans-serif;font-size: 18px;}
+
+nav a:link, nav a:visited {color: #ffffff;text-decoration: none;}
+
+a {padding: 5px;line-height: 25px;}
+
+p {margin-left: 15px;margin-right: 15px;margin-top: 20px;text-align: justify;text-indent: 50px}
+
+#cadastro {text-align: center;}
+
+.cont {width: 382px;height: 220px;border: thin #006666 solid;text-align: center;margin: 20px;padding: 2px;box-sizing: border-box;display: inline-table;}
+
+.game {text-align: center;margin-top: 10px}
+
+.cadastroAguardando {text-align: center;margin-top: 10px}
+
+/* CONFIG DA TABELA DE CONTATO*/
+
+input, textarea{font-family: sans-serif; font-weight:normal; font-size: 13pt}
+
+input:hover{background-color:#F2F2F2}
+
+legend{color:#888888;font-weight: bold;font-size: 13pt;font-family: sans-serif}
+
+fieldset{border-color:#F2F2F2; margin: 20px}
+
+fieldset#Sexo{width: 150px}
+
