@@ -1,12 +1,43 @@
 # SITE_DE_JOGOS
-Esse foi um dos que mais gostei de efetuar sua criação abaixo segue oque foi solicitado
 
-1.Crie um arquivo HTML para cad aexemplo de arquivo PDF, com o respectivo nome.
+📄 Exercício – Criação de Arquivos HTML com Estilização Personalizada
+Esse foi um dos exercícios mais interessantes de realizar. Abaixo está a descrição detalhada do que foi solicitado:
 
-2.Utilize as principais tags de estruturas do HTML5 (header, nav, section, article, footer).
+🧱 1. Estrutura de Arquivos
+Criar um arquivo HTML para cada exemplo de PDF disponibilizado, utilizando o mesmo nome do arquivo PDF como referência.
 
-3.As páginas deverão ter uma cor de fundo e a cor branca para a região do conteúdo.
+🏗️ 2. Estrutura com Tags Semânticas (HTML5)
+Utilizar as principais tags semânticas do HTML5 em todas as páginas, garantindo uma estrutura organizada:
 
-4.Cada página deverá possuir uma cor de fundo do menu diferente e a cor do link também.
+<header> – Cabeçalho da página
 
-5. Utilizar os chamados pseudo-elementos do CSS para formatar os links.
+<nav> – Menu de navegação
+
+<section> – Sessões de conteúdo
+
+<article> – Conteúdo específico
+
+<footer> – Rodapé com informações adicionais
+
+🎨 3. Estilo Visual com CSS
+Cor de fundo geral: Aplicar uma cor de fundo personalizada para cada página.
+
+Área de conteúdo: Usar cor branca como fundo para destacar o conteúdo principal.
+
+🧭 4. Estilo do Menu de Navegação
+O menu de navegação (nav) deve possuir:
+
+Uma cor de fundo diferente em cada página
+
+Links personalizados com cores específicas
+
+✨ 5. Uso de Pseudo-elementos CSS
+Utilizar pseudo-elementos CSS para formatar os links do menu, como:
+
+:hover – Estilo quando o mouse passa por cima
+
+:active – Estilo ao clicar
+
+:visited – Estilo após o link ter sido acessado
+
+::before e ::after – Para adicionar elementos decorativos, se desejado
